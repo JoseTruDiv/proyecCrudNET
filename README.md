@@ -58,5 +58,3 @@ Este proyecto tiene como objetivo demostrar conocimientos en .NET mediante la cr
 - José Tru
 
 ---
-
-¿Quieres agregar algún detalle extra, como capturas de pantalla o ejemplos de uso?
