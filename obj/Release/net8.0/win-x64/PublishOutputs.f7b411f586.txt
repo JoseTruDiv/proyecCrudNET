@@ -1,0 +1,10 @@
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\appsettings.Development.json
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\appsettings.json
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\app\package-lock.json
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\app\package.json
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\app\tsconfig.app.json
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\app\tsconfig.json
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\app\tsconfig.node.json
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\ProyectoCrud.pdb
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\aspnetcorev2_inprocess.dll
+D:\MEMORIN-PRO\estudios\ESTUDIOS-2024-2025\MULTIPLATAFORMA\.NET\proyectos\ProyectoCrud\bin\Release\net8.0\win-x64\publish\ProyectoCrud.exe
