@@ -1,6 +1,4 @@
-¡Perfecto! Con la información que me diste, aquí tienes un README sencillo y profesional para tu proyecto:
 
----
 
 # proyecCrudNET
 
